@@ -17,3 +17,7 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Generated logs and reports
+logs/
+reports/
