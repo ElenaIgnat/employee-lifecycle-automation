@@ -1,0 +1,6 @@
+FirstName,LastName,Username,Department,Title,OU,Groups
+John,Doe,jdoe,IT,Systems Engineer,"OU=IT,OU=Users,DC=corp,DC=local","GG_IT;GG_VPN"
+Anna,Smith,asmith,Finance,Accountant,"OU=Finance,OU=Users,DC=corp,DC=local","GG_Finance"
+Mark,Brown,mbrown,Sales,Sales Specialist,"OU=Sales,OU=Users,DC=corp,DC=local","GG_Sales;GG_VPN"
+Laura,Green,lgreen,HR,HR Specialist,"OU=HR,OU=Users,DC=corp,DC=local","GG_HR"
+Peter,White,pwhite,Infrastructure,Infrastructure Engineer,"OU=Infrastructure,OU=Users,DC=corp,DC=local","GG_IT;GG_Infrastructure;GG_VPN"

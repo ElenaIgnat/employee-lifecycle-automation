@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Secrets
+*.secret
+*.key
+*.pem
+.env
+
+# PowerShell
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
